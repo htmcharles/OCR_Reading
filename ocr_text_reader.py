@@ -7,6 +7,8 @@ GUI-based OCR tool with:
 - Text display of extracted content
 """
 
+import utils.net
+import utils.clients
 import utils.http_session
 import utils.transport
 import utils.session
